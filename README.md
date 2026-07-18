@@ -1,9 +1,9 @@
 <h1 align="center">Olá, Eu sou Boris Zaidan👋</h1>
 
 
-<div align="center">
+<!-- <div align="center">
   <img  height="5400" width="500" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"  />
-</div>
+</div> -->
 
 ###
 
